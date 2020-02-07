@@ -49,6 +49,12 @@
             <version>1.1</version>
         </dependency>
 
+        <dependency>
+            <groupId>ee.sk.smartid</groupId>
+            <artifactId>smart-id-java-client</artifactId>
+            <version>1.2</version>
+        </dependency>
+
 
     </dependencies>
 
@@ -100,7 +106,7 @@
             </snapshots>
             <id>central</id>
             <name>Maven Central</name>
-            <url>http://repo1.maven.org/maven2</url>
+            <url>https://repo1.maven.org/maven2</url>
         </repository>
     </repositories>
     <pluginRepositories>
@@ -110,7 +116,7 @@
             </snapshots>
             <id>central</id>
             <name>Maven Plugin Repository</name>
-            <url>http://repo1.maven.org/maven2</url>
+            <url>https://repo1.maven.org/maven2</url>
         </pluginRepository>
     </pluginRepositories>
 
