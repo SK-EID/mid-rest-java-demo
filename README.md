@@ -84,7 +84,7 @@ Without following step you couldn't log in with Estonian (+37200000766) testuser
          -storepass changeit -alias "TEST of ESTEID-SK 2015" -file TEST_of_ESTEID-SK_2015.pem.crt -noprompt
 
 We also need to import a second test root certificate. 
-Without following step you couldn't log in with Lithuanian (+37060000666) or Estonian newest (+37268000769) testuser:
+Without following step you couldn't log in with Lithuanian (+37060000666) or Estonian (+37268000769) testuser:
  * import demo env "TEST of EID-SK 2016" root certificate:
   
         keytool -importcert -file TEST_of_EID-SK_2016.pem.crt -keystore mid.trusted_root_certs.p12 \
