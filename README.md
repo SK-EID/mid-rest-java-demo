@@ -88,6 +88,6 @@ Without following step you couldn't log in with Lithuanian (+37060000666) or Est
  * import demo env "TEST of EID-SK 2016" root certificate:
   
         keytool -importcert -file TEST_of_EID-SK_2016.pem.crt -keystore mid.trusted_root_certs.p12 \
-         -storepass changeit -alias "TEST_of_EID-SK_2016" -noprompt
+         -storepass changeit -alias "TEST_of_EID-SK_2016" -file TEST_of_EID-SK_2016.pem.crt -noprompt
 
-If new certificates become available then these need to be imported as well.
+If new certificates (e.g. TEST_EID-Q_2021E.pem.crt with alias "TEST of SK ID Solutions EID-Q 2021E") become available, then these need to be imported as well.
