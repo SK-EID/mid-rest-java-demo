@@ -1,4 +1,4 @@
-[![Tests](https://https://github.com/SK-EID/mid-rest-java-demo/actions/workflows/tests.yaml/badge.svg)](https://https://github.com/SK-EID/mid-rest-java-demo/actions/workflows/tests.yaml)
+[![Tests](https://github.com/SK-EID/mid-rest-java-demo/actions/workflows/tests.yaml/badge.svg)](https://github.com/SK-EID/mid-rest-java-demo/actions/workflows/tests.yaml)
 
 # Mobile-ID (MID) Java Demo
 
