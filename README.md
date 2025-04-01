@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.com/SK-EID/mid-rest-java-demo.svg?branch=master)](https://travis-ci.com/SK-EID/mid-rest-java-demo)
+[![Tests](https://https://github.com/SK-EID/mid-rest-java-demo/actions/workflows/tests.yaml/badge.svg)](https://https://github.com/SK-EID/mid-rest-java-demo/actions/workflows/tests.yaml)
 
 # Mobile-ID (MID) Java Demo
 
