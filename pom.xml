@@ -16,7 +16,7 @@
     <properties>
         <java.version>1.8</java.version>
         <jersey.version>3.0.8</jersey.version>
-        <mid.rest.java.client.version>1.7-SNAPSHOT</mid.rest.java.client.version>
+        <mid.rest.java.client.version>1.7</mid.rest.java.client.version>
         <mid.client.jackson.databind.version>2.13.4.2</mid.client.jackson.databind.version>
         <mid.client.jackson.annotations.version>2.13.4</mid.client.jackson.annotations.version>
         <mid.client.jackson.core.version>2.13.4</mid.client.jackson.core.version>
